@@ -1,0 +1,11 @@
+.icon-container {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+.icon {
+    display: none;
+}
+.icon.active {
+    display: inline;
+}
